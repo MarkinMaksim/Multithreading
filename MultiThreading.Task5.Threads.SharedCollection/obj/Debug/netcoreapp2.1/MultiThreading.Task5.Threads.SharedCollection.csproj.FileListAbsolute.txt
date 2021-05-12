@@ -1,0 +1,23 @@
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.deps.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.runtimeconfig.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.runtimeconfig.dev.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.dll
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.pdb
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.csprojAssemblyReference.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.csproj.CoreCompileInputs.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.AssemblyInfoInputs.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.AssemblyInfo.cs
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.dll
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\bin\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task5.Threads.SharedCollection\obj\Debug\netcoreapp2.1\MultiThreading.Task5.Threads.SharedCollection.genruntimeconfig.cache

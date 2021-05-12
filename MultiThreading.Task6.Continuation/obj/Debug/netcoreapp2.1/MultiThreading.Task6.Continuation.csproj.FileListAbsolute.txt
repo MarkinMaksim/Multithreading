@@ -1,0 +1,22 @@
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.deps.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.dev.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.CoreCompileInputs.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfoInputs.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfo.cs
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\bin\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task6.Continuation\obj\Debug\netcoreapp2.1\MultiThreading.Task6.Continuation.genruntimeconfig.cache
