@@ -1,0 +1,12 @@
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Release\netcoreapp2.1\MultiThreading.Task4.Threads.Join.genruntimeconfig.cache

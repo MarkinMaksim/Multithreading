@@ -90,7 +90,7 @@ namespace MultiThreading.Task6.Continuation
             var task8 = task7.ContinueWith(x =>
             {
                 Console.WriteLine("Task 2  id:" + Thread.CurrentThread.ManagedThreadId); 
-                Console.WriteLine("Task 2 is background? Answer:" + Thread.CurrentThread.IsBackground);
+                Console.WriteLine("Task 2 is ThreadPoolThread? Answer:" + Thread.CurrentThread.IsThreadPoolThread);
 
                 Console.WriteLine("Task executed when the parent task would be finished with fail and parent task thread should be reused for continuation");
             },new CancellationToken(), TaskContinuationOptions.OnlyOnCanceled | TaskContinuationOptions.LongRunning, new CustomTaskScheduler());
@@ -106,7 +106,7 @@ namespace MultiThreading.Task6.Continuation
         static void DoLongRunningTask(CancellationToken token)
         {
             Console.WriteLine("Task 1  id:" + Thread.CurrentThread.ManagedThreadId);
-            Console.WriteLine("Task 1 is background? Answer:" + Thread.CurrentThread.IsBackground);
+            Console.WriteLine("Task 2 is ThreadPoolThread? Answer:" + Thread.CurrentThread.IsThreadPoolThread);
             Console.WriteLine("Task 1 Do long running");
             token.ThrowIfCancellationRequested();
 
