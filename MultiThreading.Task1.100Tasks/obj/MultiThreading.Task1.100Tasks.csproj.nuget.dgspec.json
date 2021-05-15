@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj": {}
+    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj": {}
   },
   "projects": {
-    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj": {
+    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+        "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
         "projectName": "MultiThreading.Task1.100Tasks",
-        "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+        "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task1.100Tasks\\obj\\",
+        "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task1.100Tasks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config",

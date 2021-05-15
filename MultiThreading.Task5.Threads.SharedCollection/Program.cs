@@ -5,6 +5,7 @@
  * Use Thread, ThreadPool or Task classes for thread creation and any kind of synchronization constructions.
  */
 using System;
+using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
@@ -12,7 +13,7 @@ namespace MultiThreading.Task5.Threads.SharedCollection
 {
     class Program
     {
-        public static int[] array = new int[10];
+        public static List<int> list = new List<int>();
         private static AutoResetEvent addEvent = new AutoResetEvent(true);
         private static AutoResetEvent printEvent = new AutoResetEvent(false);
         public static Thread addTread;
@@ -38,9 +39,10 @@ namespace MultiThreading.Task5.Threads.SharedCollection
 
         public static void AddNumberInArray()
         {
+            addEvent.WaitOne();
             for (int i = 1; i < 11; i++)
             {
-                array[i - 1] = i;
+                list.Add(i);
                 printEvent.Set();
                 addEvent.WaitOne();
             }
@@ -51,7 +53,7 @@ namespace MultiThreading.Task5.Threads.SharedCollection
             for (int i = 1; i < 11; i++)
             {
                 printEvent.WaitOne();
-                Console.WriteLine("[{0}]", string.Join(", ", array));
+                Console.WriteLine("[{0}]", string.Join(", ", list));
                 addEvent.Set();
             }
         }

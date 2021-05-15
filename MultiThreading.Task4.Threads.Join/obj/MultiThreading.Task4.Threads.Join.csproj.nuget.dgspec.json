@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {}
+    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {}
   },
   "projects": {
-    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {
+    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+        "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
         "projectName": "MultiThreading.Task4.Threads.Join",
-        "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
+        "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task4.Threads.Join\\MultiThreading.Task4.Threads.Join.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task4.Threads.Join\\obj\\",
+        "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task4.Threads.Join\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+      "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
       "projectName": "MultiThreading.Task2.Chaining",
-      "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+      "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
       "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-      "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task2.Chaining\\obj\\",
+      "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task2.Chaining\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config",

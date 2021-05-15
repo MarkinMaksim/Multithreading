@@ -5841,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+      "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
       "projectName": "MultiThreading.Task3.MatrixMultiplier.Tests",
-      "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
+      "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\MultiThreading.Task3.MatrixMultiplier.Tests.csproj",
       "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-      "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\obj\\",
+      "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task3.MatrixMultiplier.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5862,8 +5862,8 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj": {
-              "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj"
+            "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj": {
+              "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task3.Matrixes\\MultiThreading.Task3.MatrixMultiplier.csproj"
             }
           }
         }

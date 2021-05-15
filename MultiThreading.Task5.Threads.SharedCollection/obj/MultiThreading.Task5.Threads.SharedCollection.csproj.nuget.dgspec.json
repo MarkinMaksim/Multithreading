@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {}
+    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {}
   },
   "projects": {
-    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {
+    "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+        "projectUniqueName": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
         "projectName": "MultiThreading.Task5.Threads.SharedCollection",
-        "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
+        "projectPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task5.Threads.SharedCollection\\MultiThreading.Task5.Threads.SharedCollection.csproj",
         "packagesPath": "C:\\Users\\Максим\\.nuget\\packages\\",
-        "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task5.Threads.SharedCollection\\obj\\",
+        "outputPath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task5.Threads.SharedCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Максим\\AppData\\Roaming\\NuGet\\NuGet.Config",

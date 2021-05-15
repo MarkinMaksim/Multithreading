@@ -17,7 +17,8 @@ namespace MultiThreading.Task4.Threads.Join
     class Program
     {
         static int count = 10;
-        static Semaphore semaphore = new Semaphore(1, 1);
+        static Semaphore semaphore = new Semaphore(0, 1);
+
         static void Main(string[] args)
         {
             Console.WriteLine("4.	Write a program which recursively creates 10 threads.");
@@ -29,14 +30,14 @@ namespace MultiThreading.Task4.Threads.Join
 
             Console.WriteLine();
 
-            //ThreadDecrement(count);
+            Console.WriteLine("Task A");
+            ThreadDecrement(count);
 
-            var info = new Info
-            {
-                CurrentSemaphore = semaphore,
-                State = count
-            };
-            ThreadPoolDecrement(info);
+            Console.WriteLine();
+            Console.WriteLine("Task B");
+
+            ThreadPoolDecrement(count);
+            semaphore.WaitOne();
 
             Console.ReadLine();
         }
@@ -51,7 +52,7 @@ namespace MultiThreading.Task4.Threads.Join
                 thread = new Thread(new ParameterizedThreadStart(ThreadDecrement));
                 
                 thread.Start(state - 1);
-                thread?.Join();
+                thread.Join();
             }
 
             Thread.CurrentThread.Name = state.ToString();
@@ -60,33 +61,18 @@ namespace MultiThreading.Task4.Threads.Join
 
         static void ThreadPoolDecrement(object obj)
         {
-            var info = obj as Info;
+            var state = (int)obj;
 
-            if (info.State > 1)
+            Console.WriteLine($"Thred {Thread.CurrentThread.Name}# with state {state}");
+
+            if (state > 1)
             {
-                info.CurrentSemaphore.WaitOne();
-                var nextInfo = new Info
-                {
-                    PreviosSemaphore = info.CurrentSemaphore,
-                    CurrentSemaphore = new Semaphore(1, 1),
-                    State = info.State - 1
-                };
-                ThreadPool.QueueUserWorkItem(new WaitCallback(ThreadPoolDecrement), nextInfo);
-                info.CurrentSemaphore.WaitOne();
+                ThreadPool.QueueUserWorkItem(new WaitCallback(ThreadPoolDecrement), state - 1);
             }
-
-            Thread.CurrentThread.Name = info.State.ToString();
-            Console.WriteLine($"Thred {Thread.CurrentThread.Name}# with state {info.State}");
-            info.PreviosSemaphore?.Release();
-        }
-
-        public class Info
-        {
-            public int State { get; set; }
-
-            public Semaphore PreviosSemaphore { get; set; }
-
-            public Semaphore CurrentSemaphore { get; set; }
-        }
+            else
+            {
+                semaphore.Release();
+            }
+        } 
     }
 }

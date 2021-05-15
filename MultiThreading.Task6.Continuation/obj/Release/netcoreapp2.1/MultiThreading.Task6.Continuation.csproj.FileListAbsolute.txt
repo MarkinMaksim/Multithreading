@@ -1,0 +1,12 @@
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\bin\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\bin\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\bin\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\bin\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\bin\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task6.Continuation\obj\Release\netcoreapp2.1\MultiThreading.Task6.Continuation.genruntimeconfig.cache

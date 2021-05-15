@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fUQrXC/H9Mebi/IYlzx8PzDRGowGX0PwYP6paVqPJJQq+u4bCmk6gAHLiez0wf2vz5lsxVYSXEvwy/rmNrZQPA==",
+  "dgSpecHash": "2MrgYHGEa31QQuBEPK416JuIUxVUStIgU8PcckjrGCTzo0vp99I9qvc/7J7h2Ex3Pae3f6nWJ+AM2tzqDDkW0w==",
   "success": true,
-  "projectFilePath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\01.multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
+  "projectFilePath": "G:\\Epam\\Intermidate .Net\\01.multithreading.v.1.2\\Multithreading\\MultiThreading.Task1.100Tasks\\MultiThreading.Task1.100Tasks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Максим\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Максим\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
