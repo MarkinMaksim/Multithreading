@@ -1,0 +1,23 @@
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.deps.json
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.json
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.dev.json
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csprojAssemblyReference.cache
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csproj.CoreCompileInputs.cache
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfoInputs.cache
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfo.cs
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.genruntimeconfig.cache

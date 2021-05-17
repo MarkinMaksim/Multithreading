@@ -1,0 +1,35 @@
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.deps.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.dev.json
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csprojAssemblyReference.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.CoreCompileInputs.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfoInputs.cache
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.genruntimeconfig.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.deps.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.dev.json
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csprojAssemblyReference.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfoInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.CoreCompileInputs.cache
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+G:\Epam\Intermidate .Net\01.multithreading.v.1.2\Multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.genruntimeconfig.cache
